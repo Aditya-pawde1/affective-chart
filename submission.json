@@ -4,3 +4,4 @@
   "concept": "Overfitting",
   "metaphor": "A tailor creates a suit perfectly fitted to one person but unusable for others, representing a model that fits training data but fails to generalize."
 }
+
